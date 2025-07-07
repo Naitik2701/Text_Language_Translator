@@ -2,8 +2,7 @@
 
 A simple yet powerful **Text Translator App** built using **React**, **Tailwind CSS**, and **RapidAPI's Google Translate API**.
 
-## 🚀 Live Demo
-👉 [Link to Live Site]() — 
+
 
 ---
 
